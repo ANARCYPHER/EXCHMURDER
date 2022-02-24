@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/lirantal/anti-trojan-source/raw/main/.github/anti-trojan-source-logo.png" height="220">
+ 
+  ![Caesar Kunikov](https://user-images.githubusercontent.com/73909878/155599464-96f07e6c-1821-4392-8993-a6eeaf163c1e.jpg)
+
 </p>
 
 <p align="center">
