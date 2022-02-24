@@ -8,7 +8,7 @@
 
 <p align="center">
  
-  ![Caesar Kunikov](https://user-images.githubusercontent.com/73909878/155599464-96f07e6c-1821-4392-8993-a6eeaf163c1e.jpg)
+![giphy](https://user-images.githubusercontent.com/73909878/155600280-d0de4d19-7e49-47b6-9b55-29b92a680407.gif)
 
 </p>
 
@@ -122,5 +122,4 @@ repos:
 Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
 
 # Author
-
-**anti-trojan-source** © [Liran Tal](https://github.com/lirantal), Released under the [Apache-2.0](./LICENSE) License.
+ALLSAFECYBER
