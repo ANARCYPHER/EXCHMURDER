@@ -7,11 +7,10 @@
 </p>
 
 <p align="center">
- 
+ <center>
 ![giphy](https://user-images.githubusercontent.com/73909878/155600280-d0de4d19-7e49-47b6-9b55-29b92a680407.gif)
-
+</center>
 </p>
-
 <p align="center">
   <a href="https://www.npmjs.org/package/anti-trojan-source"><img src="https://badgen.net/npm/v/anti-trojan-source" alt="npm version"/></a>
   <a href="https://www.npmjs.org/package/anti-trojan-source"><img src="https://badgen.net/npm/license/anti-trojan-source" alt="license"/></a>
